@@ -1,0 +1,12 @@
+.chmak{
+	position:absolute;
+	display:none;
+	z-index:1000002;
+	background-color:white;
+	box-shadow: rgba(50, 50, 50, 0.3) 1px 1px 5px 0px;
+	border-radius:2px;
+	padding:2px;
+}
+.sl{
+	margin-left:4px;
+}
